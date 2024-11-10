@@ -13,11 +13,7 @@ Hi, I’m João 👋
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Joao-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Joao-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Joao-REACTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Joao-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
-  
+
   ##
  
 <div>
