@@ -4,9 +4,7 @@ Hi, I’m João 👋
 - 💻   Other tools: NodeJS | MySql | MongoDB | GIT
 - 🌱   I’m currently learning NodeJS | MySql | MongoDB
 
-<div align="left">
-  <a href="https://github.com/joaobosco25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobosco25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
